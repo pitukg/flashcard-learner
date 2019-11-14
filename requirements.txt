@@ -1,0 +1,4 @@
+run it on python 3.x
+required packages:
+- tkinter
+- sqlite3
